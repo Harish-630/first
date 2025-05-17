@@ -11,6 +11,8 @@
 # hlsearch on (H) or off (h):
 ~H
 # Command Line History (newest to oldest):
+:qa
+|2,0,1747499483,,"qa"
 :wq!
 |2,0,1747319123,,"wq!"
 :wq
@@ -30,34 +32,60 @@
 |3,1,1,1,1,0,1746714614,"Hi,Harish this is working fine@"
 
 # File marks:
-'0  2  31  ~/file1
-|4,48,2,31,1747319123,"~/file1"
-'1  38  0  /var/www/html/index.html
-|4,49,38,0,1746714625,"/var/www/html/index.html"
-'2  1  30  /var/www/html/index.html
-|4,50,1,30,1746714477,"/var/www/html/index.html"
+'0  9  0  ~/.git/COMMIT_EDITMSG
+|4,48,9,0,1747499483,"~/.git/COMMIT_EDITMSG"
+'1  2  31  ~/file1
+|4,49,2,31,1747319123,"~/file1"
+'2  38  0  /var/www/html/index.html
+|4,50,38,0,1746714625,"/var/www/html/index.html"
 '3  1  30  /var/www/html/index.html
 |4,51,1,30,1746714477,"/var/www/html/index.html"
+'4  1  30  /var/www/html/index.html
+|4,52,1,30,1746714477,"/var/www/html/index.html"
 
 # Jumplist (newest first):
+-'  9  0  ~/.git/COMMIT_EDITMSG
+|4,39,9,0,1747499483,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1747499469,"~/.git/COMMIT_EDITMSG"
 -'  2  31  ~/file1
 |4,39,2,31,1747319123,"~/file1"
+-'  2  31  ~/file1
+|4,39,2,31,1747319123,"~/file1"
+-'  1  0  ~/file1
+|4,39,1,0,1747319059,"~/file1"
 -'  1  0  ~/file1
 |4,39,1,0,1747319059,"~/file1"
 -'  38  0  /var/www/html/index.html
 |4,39,38,0,1746714625,"/var/www/html/index.html"
 -'  38  0  /var/www/html/index.html
 |4,39,38,0,1746714625,"/var/www/html/index.html"
+-'  38  0  /var/www/html/index.html
+|4,39,38,0,1746714625,"/var/www/html/index.html"
+-'  38  0  /var/www/html/index.html
+|4,39,38,0,1746714625,"/var/www/html/index.html"
 -'  1  30  /var/www/html/index.html
 |4,39,1,30,1746714606,"/var/www/html/index.html"
 -'  1  30  /var/www/html/index.html
 |4,39,1,30,1746714606,"/var/www/html/index.html"
+-'  1  30  /var/www/html/index.html
+|4,39,1,30,1746714606,"/var/www/html/index.html"
+-'  1  30  /var/www/html/index.html
+|4,39,1,30,1746714606,"/var/www/html/index.html"
+-'  1  30  /var/www/html/index.html
+|4,39,1,30,1746714477,"/var/www/html/index.html"
+-'  1  30  /var/www/html/index.html
+|4,39,1,30,1746714477,"/var/www/html/index.html"
 -'  1  30  /var/www/html/index.html
 |4,39,1,30,1746714477,"/var/www/html/index.html"
 -'  1  30  /var/www/html/index.html
 |4,39,1,30,1746714477,"/var/www/html/index.html"
 
 # History of marks within files (newest to oldest):
+
+> ~/.git/COMMIT_EDITMSG
+	*	1747499478	0
+	"	9	0
 
 > ~/file1
 	*	1747319118	0
